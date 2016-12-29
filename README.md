@@ -14,7 +14,7 @@ To understand what "unidirectional data flow" actually means, let's first consid
 
 ![Trello Screenshot](https://s3.amazonaws.com/learn-verified/react-unidirectional-data-readme-trello.png)
 
-Trello allows you to raise issues, represented by "cards", assign them and move them into different columns, whereas each column represents a distinct step of your workflow.
+Trello allows you to raise issues, represented by "cards", assign them and move them into different columns, whereas each column represents a distinct step of your workflow
 
 When creating an application like that, it's always helpful to first think about how one would go about organizing the underlying data:
 
